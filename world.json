@@ -135,5 +135,7 @@
   "protected": false,
   "coreVersion": "0.8.8",
   "resetKeys": false,
-  "safeMode": false
+  "safeMode": false,
+  "manifest": "https://raw.githubusercontent.com/ForOhForError/lancer-vtt-template/main/world.json",
+  "download": "https://github.com/ForOhForError/lancer-vtt-template/archive/main.zip",
 }
