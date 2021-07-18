@@ -33,10 +33,6 @@
       "type": "module"
     },
     {
-      "name": "chat-images",
-      "type": "module"
-    },
-    {
       "name": "dice-calculator",
       "type": "module"
     },
@@ -81,15 +77,7 @@
       "type": "module"
     },
     {
-      "name": "adventure-import-export",
-      "type": "module"
-    },
-    {
       "name": "clocks",
-      "type": "module"
-    },
-    {
-      "name": "combat-numbers",
       "type": "module"
     },
     {
@@ -101,31 +89,11 @@
       "type": "module"
     },
     {
-      "name": "dragupload",
-      "type": "module"
-    },
-    {
-      "name": "easy-exports",
-      "type": "module"
-    },
-    {
-      "name": "foundryvtt-mountup",
-      "type": "module"
-    },
-    {
       "name": "gm-screen",
       "type": "module"
     },
     {
-      "name": "scaleGrid",
-      "type": "module"
-    },
-    {
       "name": "hex-size-support",
-      "type": "module"
-    },
-    {
-      "name": "fvtt-keikaku",
       "type": "module"
     },
     {
@@ -145,18 +113,6 @@
       "type": "module"
     },
     {
-      "name": "plutonium",
-      "type": "module"
-    },
-    {
-      "name": "Radugen",
-      "type": "module"
-    },
-    {
-      "name": "sceneDefaults",
-      "type": "module"
-    },
-    {
       "name": "sensor-sight",
       "type": "module"
     },
@@ -169,23 +125,11 @@
       "type": "module"
     },
     {
-      "name": "furnace",
-      "type": "module"
-    },
-    {
-      "name": "token-attacher",
-      "type": "module"
-    },
-    {
       "name": "token-tooltip-alt",
       "type": "module"
     },
     {
       "name": "turnmarker",
-      "type": "module"
-    },
-    {
-      "name": "vino",
       "type": "module"
     },
     {
