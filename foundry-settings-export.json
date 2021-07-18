@@ -4,14 +4,6 @@
     "value": "false"
   },
   {
-    "key": "furnace.tokenIgnoreVision",
-    "value": "false"
-  },
-  {
-    "key": "mountup.mount-message",
-    "value": "\"{rider} has mounted {mount}.\""
-  },
-  {
     "key": "lessfog.dim_darkness",
     "value": "0.4"
   },
@@ -36,10 +28,6 @@
     "value": "true"
   },
   {
-    "key": "mountup.rider-x",
-    "value": "\"1\""
-  },
-  {
     "key": "lancer-conditions.hayleyPC",
     "value": "true"
   },
@@ -56,18 +44,6 @@
     "value": "\"1.5\""
   },
   {
-    "key": "lancer.coreDataVersion",
-    "value": "\"3.0.31\""
-  },
-  {
-    "key": "gm-screen.migrated",
-    "value": "{\"status\":true,\"version\":\"2.0.1\"}"
-  },
-  {
-    "key": "combat-numbers.temp_hp_object_path",
-    "value": "\"mech.heat\""
-  },
-  {
     "key": "lancer-conditions.hayleyUtility",
     "value": "true"
   },
@@ -78,10 +54,6 @@
   {
     "key": "drag-ruler.speedProviders.native.setting.dashMultiplier",
     "value": "2"
-  },
-  {
-    "key": "mountup.dismount-message",
-    "value": "\"{rider} has dismounted from {mount}.\""
   },
   {
     "key": "drag-ruler.dataVersion",
@@ -104,24 +76,8 @@
     "value": "{\"default\":{\"items\":[{\"disposition\":\"FRIENDLY\",\"items\":[{\"value\":\"derived.armor\",\"icon\":\"mdi mdi-shield-outline\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.evasion\",\"icon\":\"cci cci-evasion\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.edef\",\"icon\":\"cci cci-edef\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.mm.SensorRange\",\"icon\":\"cci cci-sensor\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.speed\",\"icon\":\"mdi mdi-arrow-right-bold-hexagon-outline\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.current_structure\",\"icon\":\"cci cci-structure\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.current_stress\",\"icon\":\"cci cci-reactor\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"}]},{\"disposition\":\"NEUTRAL\",\"items\":[{\"value\":\"derived.armor\",\"icon\":\"mdi mdi-shield-outline\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.evasion\",\"icon\":\"cci cci-evasion\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.edef\",\"icon\":\"cci cci-edef\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.mm.SensorRange\",\"icon\":\"cci cci-sensor\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.speed\",\"icon\":\"mdi mdi-arrow-right-bold-hexagon-outline\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.current_structure\",\"icon\":\"cci cci-structure\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.current_stress\",\"icon\":\"cci cci-reactor\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"}]},{\"disposition\":\"HOSTILE\",\"items\":[{\"value\":\"derived.armor\",\"icon\":\"mdi mdi-shield-outline\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.evasion\",\"icon\":\"cci cci-evasion\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.edef\",\"icon\":\"cci cci-edef\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.mm.SensorRange\",\"icon\":\"cci cci-sensor\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.speed\",\"icon\":\"mdi mdi-arrow-right-bold-hexagon-outline\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.current_structure\",\"icon\":\"cci cci-structure\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"derived.current_stress\",\"icon\":\"cci cci-reactor\",\"isFunction\":false,\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"}]}],\"static\":{\"displayNameInTooltip\":true,\"useAccentEverywhere\":true,\"accentColor\":\"#c22929\",\"tokenDispositions\":[\"OWNED\",\"FRIENDLY\",\"NEUTRAL\",\"HOSTILE\"]}},\"pilot\":{\"items\":[{\"disposition\":\"FRIENDLY\",\"items\":[]},{\"disposition\":\"NEUTRAL\",\"items\":[]},{\"disposition\":\"HOSTILE\",\"items\":[]}],\"static\":{\"displayNameInTooltip\":true,\"accentColor\":\"#c5991a\",\"useAccentColorForEverything\":false,\"tokenDispositions\":[\"FRIENDLY\",\"NEUTRAL\",\"HOSTILE\"]}},\"npc\":{\"items\":[{\"disposition\":\"FRIENDLY\",\"items\":[]},{\"disposition\":\"NEUTRAL\",\"items\":[]},{\"disposition\":\"HOSTILE\",\"items\":[]}],\"static\":{\"displayNameInTooltip\":true,\"accentColor\":\"#afb64d\",\"useAccentColorForEverything\":false,\"tokenDispositions\":[\"FRIENDLY\",\"NEUTRAL\",\"HOSTILE\"]}},\"deployable\":{\"items\":[{\"disposition\":\"FRIENDLY\",\"items\":[{\"value\":\"armor\",\"icon\":\"mdi mdi-shield-outline\",\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"evasion\",\"icon\":\"cci cci-evasion\",\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"edef\",\"icon\":\"cci cci-edef\",\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"}]},{\"disposition\":\"NEUTRAL\",\"items\":[{\"value\":\"armor\",\"icon\":\"mdi mdi-shield-outline\",\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"evasion\",\"icon\":\"cci cci-evasion\",\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"edef\",\"icon\":\"cci cci-edef\",\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"}]},{\"disposition\":\"HOSTILE\",\"items\":[{\"value\":\"armor\",\"icon\":\"mdi mdi-shield-outline\",\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"evasion\",\"icon\":\"cci cci-evasion\",\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"},{\"value\":\"edef\",\"icon\":\"cci cci-edef\",\"expression\":false,\"isNumber\":false,\"color\":\"#bababa\"}]}],\"static\":{\"displayNameInTooltip\":false,\"useAccentEverywhere\":false,\"accentColor\":\"#c22929\",\"tokenDispositions\":[\"FRIENDLY\",\"NEUTRAL\",\"HOSTILE\"],\"useAccentColorForEverything\":false}},\"mech\":{\"items\":[{\"disposition\":\"FRIENDLY\",\"items\":[]},{\"disposition\":\"NEUTRAL\",\"items\":[]},{\"disposition\":\"HOSTILE\",\"items\":[]}],\"static\":{\"displayNameInTooltip\":true,\"accentColor\":\"#6987e4\",\"useAccentColorForEverything\":false,\"tokenDispositions\":[\"FRIENDLY\",\"NEUTRAL\",\"HOSTILE\"]}}}"
   },
   {
-    "key": "mountup.icon",
-    "value": "\"0\""
-  },
-  {
-    "key": "combat-numbers.hp_object_path",
-    "value": "\"mech.hp\""
-  },
-  {
-    "key": "core.permissions",
-    "value": "{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"FILES_BROWSE\":[2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[2,3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"NOTE_CREATE\":[2,3,4]}"
-  },
-  {
     "key": "lancer.warningFor120",
     "value": "false"
-  },
-  {
-    "key": "mountup.topbottom",
-    "value": "\"0\""
   },
   {
     "key": "statuscounter.countdownColor",
@@ -152,20 +108,8 @@
     "value": "0"
   },
   {
-    "key": "mountup.rider-y",
-    "value": "\"0\""
-  },
-  {
     "key": "pings.minMovePermission",
     "value": "\"1\""
-  },
-  {
-    "key": "mountup.column",
-    "value": "\"0\""
-  },
-  {
-    "key": "mountup.rider-rotate",
-    "value": "false"
   },
   {
     "key": "lancer-initiative.combat-tracker-sort",
@@ -196,18 +140,6 @@
     "value": "{\"_CodeMirror\":true,\"_mathjs\":true,\"_sortablejs\":true,\"barbrawl\":true,\"better-target\":true,\"chat-images\":true,\"dice-calculator\":true,\"drag-ruler\":true,\"forien-copy-environment\":true,\"lancer-initiative\":true,\"lessfog\":true,\"lib-wrapper\":true,\"popout\":true,\"socketlib\":true,\"statuscounter\":true,\"token-action-hud\":true,\"wall-height\":true,\"adventure-import-export\":true,\"clocks\":true,\"combat-numbers\":false,\"ct-effect-tooltips\":true,\"cycle-token-stack\":true,\"dragupload\":false,\"easy-exports\":true,\"foundryvtt-mountup\":false,\"gm-screen\":true,\"scaleGrid\":true,\"hex-size-support\":true,\"fvtt-keikaku\":true,\"lancer-conditions\":true,\"colorsettings\":true,\"permission_viewer\":true,\"pings\":true,\"plutonium\":false,\"Radugen\":false,\"sceneDefaults\":false,\"sensor-sight\":true,\"settings-extender\":true,\"t-is-for-target\":true,\"furnace\":false,\"token-attacher\":true,\"token-tooltip-alt\":true,\"turnmarker\":true,\"vino\":true,\"illandril-tidy-module-settings\":false,\"df-settings-clarity\":true}"
   },
   {
-    "key": "combat-numbers.appearance",
-    "value": "{\"font\":\"Verdana\",\"fontSize\":\"medium\",\"bold\":true,\"italic\":false,\"damageColor\":\"#ff0000\",\"healColor\":\"#95ed98\",\"strokeColor\":\"#000000\",\"strokeThickness\":5,\"dropShadowColor\":\"#000000\",\"dropShadowAlpha\":1}"
-  },
-  {
-    "key": "core.compendiumConfiguration",
-    "value": "{\"world.skills\":{\"private\":false,\"locked\":false},\"world.talents\":{\"private\":false,\"locked\":false},\"world.core_bonuses\":{\"private\":false,\"locked\":false},\"world.pilot_armor\":{\"private\":false,\"locked\":true},\"world.pilot_weapons\":{\"private\":false,\"locked\":false},\"world.pilot_gear\":{\"private\":false,\"locked\":true},\"world.frames\":{\"private\":false,\"locked\":false},\"world.systems\":{\"private\":false,\"locked\":false},\"world.weapons\":{\"private\":false,\"locked\":false},\"world.npc_classes\":{\"private\":true,\"locked\":false},\"world.npc_templates\":{\"private\":true,\"locked\":false},\"world.npc_features\":{\"private\":true,\"locked\":false},\"world.core_bonus\":{\"private\":false,\"locked\":true},\"world.deployable\":{\"private\":false,\"locked\":true},\"world.environment\":{\"private\":false,\"locked\":true},\"world.frame\":{\"private\":false,\"locked\":true},\"world.license\":{\"private\":false,\"locked\":true},\"world.manufacturer\":{\"private\":false,\"locked\":true},\"world.weapon_mod\":{\"private\":false,\"locked\":true},\"world.mech_system\":{\"private\":false,\"locked\":true},\"world.mech_weapon\":{\"private\":false,\"locked\":true},\"world.reserve\":{\"private\":false,\"locked\":true},\"world.sitrep\":{\"private\":false,\"locked\":true},\"world.skill\":{\"private\":false,\"locked\":true},\"world.status\":{\"private\":false,\"locked\":true},\"world.tag\":{\"private\":false,\"locked\":true},\"world.talent\":{\"private\":false,\"locked\":true},\"world.faction\":{\"private\":false,\"locked\":true},\"world.mech\":{\"private\":false,\"locked\":true},\"world.npc\":{\"private\":false,\"locked\":true},\"world.npc_class\":{\"private\":false,\"locked\":true},\"world.npc_template\":{\"private\":false,\"locked\":true},\"world.npc_feature\":{\"private\":false,\"locked\":true},\"world.organization\":{\"private\":false,\"locked\":true},\"world.pilot_weapon\":{\"private\":false,\"locked\":true},\"world.pilot\":{\"private\":false,\"locked\":true},\"world.quirk\":{\"private\":false,\"locked\":true}}"
-  },
-  {
-    "key": "mountup.should-chat",
-    "value": "true"
-  },
-  {
     "key": "lessfog.explored_darkness",
     "value": "0.4"
   },
@@ -218,18 +150,6 @@
   {
     "key": "lancer.hideWelcome",
     "value": "true"
-  },
-  {
-    "key": "lancer.systemMigrationVersion",
-    "value": "\"0.9.5\""
-  },
-  {
-    "key": "mountup.lock-riders",
-    "value": "\"3\""
-  },
-  {
-    "key": "gm-screen.gm-screen-config",
-    "value": "{\"activeGridId\":\"default\",\"grids\":{\"default\":{\"name\":\"Main\",\"id\":\"default\",\"isShared\":false,\"entries\":{\"1-1\":{\"x\":1,\"y\":1,\"entryId\":\"1-1\",\"spanRows\":2,\"spanCols\":2,\"entityUuid\":\"Actor.L4uGnEKh71pftvcu\"}}}}}"
   },
   {
     "key": "lancer-initiative.combat-tracker-enable-initiative",
@@ -248,63 +168,11 @@
     "value": "{}"
   },
   {
-    "key": "permission_viewer.migrated",
-    "value": "1"
-  },
-  {
     "key": "turnmarker.turnmarker-enabled",
     "value": "true"
   },
   {
     "key": "lancer-conditions.hayleyConditionsStatus",
     "value": "true"
-  },
-  {
-    "key": "lancer.installedLCPs",
-    "value": "{\"index\":[{\"name\":\"Lancer CORE NPCs\",\"author\":\"Massif Press\",\"description\":\"GM NPC content from the LANCER Core Book: First Edition\",\"item_prefix\":\"\",\"version\":\"1.0.4\",\"image_url\":\"https://img.itch.zone/aW1hZ2UvNDIyNjI3LzI1MDY2NTMuanBn/347x500/6cEGFF.jpg\",\"website\":\"https://massif-press.itch.io/corebook-pdf\",\"skills\":0,\"talents\":0,\"gear\":0,\"frames\":0,\"systems\":0,\"weapons\":0,\"npc_classes\":33,\"npc_templates\":12,\"npc_features\":414},{\"name\":\"Lancer Long Rim Data\",\"author\":\"Massif Press\",\"description\":\"This setting expansion for Lancer features a wealth of information on the Long Rim sector of space, including: Two new talents, Spaceborn, and Black Thumb for pilots who want to excel in null-gravity combat, and access to six additional mechs to pilot, in addition to their unique gear: The proud, memory-driven ATLAS, favored by Sparri espadas and Karrakin knights; The resourceful KOBOLD, the messy face of liberation for many across Baronic space; The storied ZHENG, the chassis first crafted by the bodhisattva-saint Xiong Xiaoli; The brutal CALIBAN, IPS-N's new corridor-clearing chassis designed specifically for boarding actions; The Harrison Armory SUNZI, a battlefield manipulator built from stolen Volador tech; and the deathless LICH, a timeless entity released from blinkspace to haunt our reality.\",\"item_prefix\":\"\",\"version\":\"1.0.8\",\"image_url\":\"https://img.itch.zone/aW1hZ2UvNTY3MjM4LzI5OTU1NjMuanBn/347x500/wib3ez.jpg\",\"website\":\"https://massif-press.itch.io/the-long-rim\",\"skills\":0,\"talents\":2,\"gear\":0,\"frames\":6,\"systems\":25,\"weapons\":11,\"npc_classes\":0,\"npc_templates\":0,\"npc_features\":0},{\"name\":\"Lancer Wallflower Data\",\"author\":\"Massif Press\",\"description\":\"Player-side COMP/CON data for the LANCER's first narrative campaign, including exotic gear, the IPS-N Kidd, Variant Frames, the GMS Sagarmatha, and the Empath Talent.\",\"item_prefix\":\"\",\"version\":\"1.0.5\",\"image_url\":\"https://img.itch.zone/aW1nLzUzOTk0MzIuanBn/315x250%23cb/YuE1nt.jpg\",\"website\":\"https://massif-press.itch.io/no-room-for-a-wallflower-act-1\",\"skills\":0,\"talents\":1,\"gear\":2,\"frames\":5,\"systems\":11,\"weapons\":6,\"npc_classes\":0,\"npc_templates\":0,\"npc_features\":0}]}"
-  },
-  {
-    "name": "GM-Class COMP//CON",
-    "core": {
-      "color": "#ccb028",
-      "permissions": {},
-      "role": 4
-    },
-    "flags": {
-      "token-action-hud": {
-        "categories": {
-          "pilot": {
-            "title": "Pilot",
-            "id": "pilot",
-            "push": false,
-            "core": true
-          },
-          "utility": {
-            "title": "Utility",
-            "id": "utility",
-            "push": false,
-            "core": true
-          },
-          "mech": {
-            "title": "Mech",
-            "id": "mech",
-            "push": false,
-            "core": true
-          },
-          "weapons": {
-            "title": "Weapons",
-            "id": "weapons",
-            "push": false,
-            "core": true
-          },
-          "systems": {
-            "title": "Systems",
-            "id": "systems",
-            "push": false,
-            "core": true
-          }
-        }
-      }
-    }
   }
 ]
