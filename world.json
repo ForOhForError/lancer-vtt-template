@@ -11,8 +11,7 @@
   "languages": [],
   "packs": [],
   "system": "lancer",
-  "dependencies": [
-    [{
+  "dependencies": [{
       "type": "module",
       "name": "CodeMirror"
     }, {
@@ -129,8 +128,9 @@
     }, {
       "type": "system",
       "name": "lancer"
-    }]
+    }
   ],
+  "url": "https://github.com/ForOhForError/lancer-vtt-template",
   "socket": false,
   "protected": false,
   "coreVersion": "0.8.8",
