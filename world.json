@@ -13,160 +13,192 @@
   "system": "lancer",
   "dependencies": [
     {
-      "type": "module",
-      "name": "CodeMirror"
+      "name": "_CodeMirror",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Math.js"
+      "name": "_mathjs",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "SortableJS"
+      "name": "_sortablejs",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Adventure Importer / Exporter"
+      "name": "barbrawl",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Bar Brawl"
+      "name": "better-target",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Better Target"
+      "name": "chat-images",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Chat Images"
+      "name": "dice-calculator",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Clocks"
+      "name": "drag-ruler",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "lib - Color Settings"
+      "name": "forien-copy-environment",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Combat Tracker Effect Icon Tooltips"
+      "name": "lancer-initiative",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Cycle Token Stack"
+      "name": "lessfog",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "DF Settings Clarity"
+      "name": "lib-wrapper",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Dice Tray"
+      "name": "popout",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Drag Ruler"
+      "name": "socketlib",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Easy Exports"
+      "name": "statuscounter",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Forien's Copy Environment"
+      "name": "token-action-hud",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Keikaku - To-Do List"
+      "name": "wall-height",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "GM Screen"
+      "name": "adventure-import-export",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Hex Token Size Support"
+      "name": "clocks",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "LANCER Condition Icons"
+      "name": "combat-numbers",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Lancer Initiative"
+      "name": "ct-effect-tooltips",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Less Fog"
+      "name": "cycle-token-stack",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "libWrapper"
+      "name": "dragupload",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Permission Viewer"
+      "name": "easy-exports",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Pings"
+      "name": "foundryvtt-mountup",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "PopOut!"
+      "name": "gm-screen",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Grid Scale Menu"
+      "name": "scaleGrid",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Sensor Sight"
+      "name": "hex-size-support",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Settings Extender"
+      "name": "fvtt-keikaku",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "socketlib"
+      "name": "lancer-conditions",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Status Icon Counters"
+      "name": "colorsettings",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "T is for Target"
+      "name": "permission_viewer",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Token Action HUD"
+      "name": "pings",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Token Attacher"
+      "name": "plutonium",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Token Tooltip Alt"
+      "name": "Radugen",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Turn Marker"
+      "name": "sceneDefaults",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "ViNo - Visual Interactive Novel Overlay"
+      "name": "sensor-sight",
+      "type": "module"
     },
     {
-      "type": "module",
-      "name": "Wall Height"
+      "name": "settings-extender",
+      "type": "module"
     },
     {
-      "type": "system",
-      "name": "lancer"
+      "name": "t-is-for-target",
+      "type": "module"
+    },
+    {
+      "name": "furnace",
+      "type": "module"
+    },
+    {
+      "name": "token-attacher",
+      "type": "module"
+    },
+    {
+      "name": "token-tooltip-alt",
+      "type": "module"
+    },
+    {
+      "name": "turnmarker",
+      "type": "module"
+    },
+    {
+      "name": "vino",
+      "type": "module"
+    },
+    {
+      "name": "illandril-tidy-module-settings",
+      "type": "module"
+    },
+    {
+      "name": "df-settings-clarity",
+      "type": "module"
+    },
+    {
+      "name": "lancer",
+      "type": "system"
     }
   ],
   "url": "https://github.com/ForOhForError/lancer-vtt-template",
