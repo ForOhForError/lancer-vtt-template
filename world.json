@@ -134,6 +134,8 @@
   "socket": false,
   "protected": false,
   "coreVersion": "0.8.8",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.8.8",
   "resetKeys": false,
   "safeMode": false,
   "manifest": "https://raw.githubusercontent.com/ForOhForError/lancer-vtt-template/main/world.json",
