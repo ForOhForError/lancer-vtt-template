@@ -1,0 +1,139 @@
+{
+  "name": "lancer-template",
+  "title": "LANCER template",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "lancer",
+  "dependencies": [
+    [{
+      "type": "module",
+      "name": "CodeMirror"
+    }, {
+      "type": "module",
+      "name": "Math.js"
+    }, {
+      "type": "module",
+      "name": "SortableJS"
+    }, {
+      "type": "module",
+      "name": "Adventure Importer / Exporter"
+    }, {
+      "type": "module",
+      "name": "Bar Brawl"
+    }, {
+      "type": "module",
+      "name": "Better Target"
+    }, {
+      "type": "module",
+      "name": "Chat Images"
+    }, {
+      "type": "module",
+      "name": "Clocks"
+    }, {
+      "type": "module",
+      "name": "lib - Color Settings"
+    }, {
+      "type": "module",
+      "name": "Combat Tracker Effect Icon Tooltips"
+    }, {
+      "type": "module",
+      "name": "Cycle Token Stack"
+    }, {
+      "type": "module",
+      "name": "DF Settings Clarity"
+    }, {
+      "type": "module",
+      "name": "Dice Tray"
+    }, {
+      "type": "module",
+      "name": "Drag Ruler"
+    }, {
+      "type": "module",
+      "name": "Easy Exports"
+    }, {
+      "type": "module",
+      "name": "Forien's Copy Environment"
+    }, {
+      "type": "module",
+      "name": "Keikaku - To-Do List"
+    }, {
+      "type": "module",
+      "name": "GM Screen"
+    }, {
+      "type": "module",
+      "name": "Hex Token Size Support"
+    }, {
+      "type": "module",
+      "name": "LANCER Condition Icons"
+    }, {
+      "type": "module",
+      "name": "Lancer Initiative"
+    }, {
+      "type": "module",
+      "name": "Less Fog"
+    }, {
+      "type": "module",
+      "name": "libWrapper"
+    }, {
+      "type": "module",
+      "name": "Permission Viewer"
+    }, {
+      "type": "module",
+      "name": "Pings"
+    }, {
+      "type": "module",
+      "name": "PopOut!"
+    }, {
+      "type": "module",
+      "name": "Grid Scale Menu"
+    }, {
+      "type": "module",
+      "name": "Sensor Sight"
+    }, {
+      "type": "module",
+      "name": "Settings Extender"
+    }, {
+      "type": "module",
+      "name": "socketlib"
+    }, {
+      "type": "module",
+      "name": "Status Icon Counters"
+    }, {
+      "type": "module",
+      "name": "T is for Target"
+    }, {
+      "type": "module",
+      "name": "Token Action HUD"
+    }, {
+      "type": "module",
+      "name": "Token Attacher"
+    }, {
+      "type": "module",
+      "name": "Token Tooltip Alt"
+    }, {
+      "type": "module",
+      "name": "Turn Marker"
+    }, {
+      "type": "module",
+      "name": "ViNo - Visual Interactive Novel Overlay"
+    }, {
+      "type": "module",
+      "name": "Wall Height"
+    }, {
+      "type": "system",
+      "name": "lancer"
+    }]
+  ],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.8",
+  "resetKeys": false,
+  "safeMode": false
+}

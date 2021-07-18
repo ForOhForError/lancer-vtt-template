@@ -1,2 +1,2 @@
 # lancer-vtt-template
-vtt template for lancer
+vtt template for LANCER RPG
